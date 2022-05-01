@@ -10,10 +10,7 @@ import Business.UserAccount.UserAccount;
 
 /**
  *
- * @author harold
- * @PramodGopal
- * @AkankshaTelagamSetty
- * @AravindPoornachandra
+ * @author ayushi
  */
 public class Customer extends UserAccount {
     String firstname;
