@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Aravind Poornachandra
+ * @author ayushi
  */
 public class User_directory {
     ArrayList<User> us = new ArrayList<User>();
