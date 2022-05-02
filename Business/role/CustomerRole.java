@@ -12,7 +12,7 @@ import userinterface.CustomerRole.*;
 
 /**
  *
- * @author maury
+ * @author Rucha Mangalekar
  */
 public class CustomerRole extends Role{
 
