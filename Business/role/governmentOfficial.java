@@ -12,7 +12,7 @@ import userinterface.CustomerRole.CustomerAreaJPanel;
 
 /**
  *
- * @author ayushi
+ * @author Rucha Mangalekar
  */
 public class governmentOfficial extends Role{
     public JPanel createWorkArea(JPanel userProcessContainer, UserAccount account, EcoSystem business) {
