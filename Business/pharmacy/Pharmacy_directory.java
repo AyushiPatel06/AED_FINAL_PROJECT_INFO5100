@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Akanksha Telagam Setty
+ * @author Rucha Mangalekar
  */
 public class Pharmacy_directory {
     ArrayList<Pharmacy> a =new ArrayList<Pharmacy>();
